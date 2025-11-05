@@ -1,0 +1,13 @@
+site_name: SG-QUANTUM-OS v2
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Quick Start: QUICK_START.md
+  - Architecture: ARCHITECTURE_OVERVIEW.md
+  - Safety Loop: SAFETY_LOOP.md
+  - Subsystems:
+      - Trinity: TRINITY/INTERNALS.md
+      - Eagle-Eye: EAGLE_EYE/PIPELINE.md
+      - DeepSeek: DEEPSEEK/INTERNALS.md
+      - HIMS: HIMS/INTERNALS.md
