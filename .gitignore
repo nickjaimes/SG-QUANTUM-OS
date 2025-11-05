@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+.localized
+
+# media / binaries (upload to Releases, not repo)
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.zip
+*.tar
+*.tar.gz
+*.iso
+
+# build/output
+dist/
+build/
+out/
+
+# node
+node_modules/
