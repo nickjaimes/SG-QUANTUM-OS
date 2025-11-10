@@ -1,0 +1,27 @@
+SG-QUANTUM-OS-v2.1/
+│
+├── LICENSE
+├── README.md
+├── CHANGELOG.md
+├── mkdocs.yml
+│
+├── docs/
+│   ├── index.md
+│   ├── ARCHITECTURE.md
+│   ├── MODULES.md
+│   ├── SECURITY_MODEL.md
+│   ├── TERMINAL_GUIDE.md
+│   └── INSTALL.md
+│
+├── sg-core/
+│   ├── kernel/
+│   ├── guardian/
+│   ├── trinity/
+│   ├── eagle-eye/
+│   └── network/
+│
+└── modules/
+    ├── sg-code/
+    ├── sg-vault/
+    ├── sg-cloud/
+    └── sg-media/
