@@ -123,3 +123,6 @@ but by conscious innovation.”
 Safeway Guardian Project  
 Author: **Nicolas E. Santiago**
 Saitama, Japan
+
+## SG QUANTUM OS Mockup
+![SG QUANTUM OS](./ASSETS/6C4B17A6-F4C0-4734-BC84-E4A60D12B408.png)
