@@ -126,3 +126,5 @@ Saitama, Japan
 
 ## SG QUANTUM OS Mockup
 ![SG QUANTUM OS](./ASSETS/6C4B17A6-F4C0-4734-BC84-E4A60D12B408.png)
+> Prototype UI Mockup — SG QUANTUM OS v2.0  
+This image represents the desktop interface concept of SG QUANTUM OS, showing the main dashboard and core navigation areas.
